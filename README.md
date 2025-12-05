@@ -8,9 +8,9 @@ Proyecto enfocado en el análisis de ventas de productos, cada producto pertenec
 - Pandas
 
 # Modelado De Datos
-<img width="1324" height="708" alt="3" src="https://github.com/user-attachments/assets/609f03b1-0a25-4feb-a952-efd7c5509765" />
 - **Tabla Calendario** = Se creó dicha tabla para poder tener un control total de todas las fechas en las cuales hubieron ventas
 - **Tabla Medidas**  = Almacena cálculos básicos para facilitar la creación de visualizaciones
+<img width="1324" height="708" alt="3" src="https://github.com/user-attachments/assets/609f03b1-0a25-4feb-a952-efd7c5509765" />
 
 # Vista Productos
 Lista todos los productos almacenados dentro de la base de datos, permite firltrarlos dependiendo a la categpría que pertenecen. 
